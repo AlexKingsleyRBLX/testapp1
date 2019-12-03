@@ -1,0 +1,6 @@
+variables = variables
+
+
+variables.variable1 = "User"
+variables.variable2 = "Permissions"
+variables.variable3 = "CommandConsole"
